@@ -1,0 +1,11 @@
+# USUARIOS
+ALUNO|1001|Ana Silva|Rua das Flores, 123|2021001|Computação|Ativo
+ALUNO|1002|Carlos Santos|Avenida Central, 456|2021002|Engenharia|Eletrica Ativo
+PROFESSOR|2001|Maria Oliveira|Rua dos Professores, 789|12345|Ciências da Computação Ativo
+PROFESSOR|2002|João Silva|Rua dos Professores, 321|54321|Engenharia Ativo
+# ACERVO
+LIVRO|L001|Programação Java|Orientada a Objetos com Java|2020|Antonio Silva|978-85-7658-123-4|1|0
+LIVRO|L002|Estruturas de Dados|Algoritmos em Java|2019|Maria Costa|978-85-7658-567-8|1|0
+REVISTA|R001|Magazine Tech|Tecnologia e Inovação|2021|Tech Editora|1|1234-5678|0|0
+REVISTA|R002|Ciência Today|Ciências Exatas|2020|Science Press|2|8765-4321|0|0
+# EMPRESTIMOS
